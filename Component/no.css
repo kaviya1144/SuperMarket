@@ -1,0 +1,16 @@
+.main{
+    width:45vh;
+    height:25vh;
+}
+.vegname{
+   color:purple;
+   text-align:center;
+}
+.main1{
+   background-size:cover;
+   background-repeat:no-repeat;
+   width:45vh;
+   height:25vh;
+   display:flex;
+   flex-direction:column;
+}
