@@ -1,0 +1,80 @@
+.form{
+ 
+}
+.divtag{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    align-items: center;
+    width: 10cm;
+    margin-top: 2cm;
+    margin-left: 15cm;
+}
+.heading{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.input{
+    width: 100%;
+    padding: 12px 27px;
+    margin: 8px 0;
+    margin-left: 25px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin-top:0px;
+}
+.input1{
+    width: 100%;
+    padding: 12px 27px;
+    margin: 8px 0px;
+    margin-left: 25px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin-top:0px;
+}
+.input2{
+    width: 100%;
+    padding: 12px 27px;
+    margin: 8px 0;
+    margin-left: 25px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin-top:0px;
+}
+.input3{
+    width: 100%;
+    padding: 12px 27px;
+    margin: 8px 0;
+    margin-left: 25px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin-top:0px;
+}
+.button{
+    width: 45%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 50px;
+  
+}
